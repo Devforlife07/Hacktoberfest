@@ -1,2 +1,2 @@
 #HACTOBERFEST_2019
-*Make pull requests to earn a t-shirt*
+_Make four or more pull requests to earn a t-shirt_
