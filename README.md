@@ -1,2 +1,2 @@
 #HACTOBERFEST_2019
-_Make four or more pull requests to earn an awesome t-shirt_  :)
+_Support open source , Make four or more pull requests to earn an awesome t-shirt_  :)
